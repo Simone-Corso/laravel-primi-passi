@@ -13,5 +13,6 @@
     <h2>
         {{ $content }}
     </h2>
+    <p><a href="{{ url('/new') }}">Scopri la bellezza della pizza</a></p>
 </body>
 </html>
