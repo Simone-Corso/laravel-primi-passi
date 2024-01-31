@@ -13,6 +13,6 @@
     <h2>
         {{ $content }}
     </h2>
-    <p><a href="{{ url('/new') }}">Scopri la bellezza della pizza</a></p>
+    <p><a href="{{ url('/new') }}">scropi la tua meravigliosa terra</a></p>
 </body>
 </html>

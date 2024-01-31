@@ -6,7 +6,7 @@
     <title>New View</title>
 </head>
 <body>
-    <h1>La pizza è buona</h1>
-    <p>Scopri come Laravel può prepararti la pizza</p>
+    <h1>Hello World</h1>
+    <p>Scopri come il mondo è bello/p>
 </body>
 </html>
